@@ -24,6 +24,7 @@ description: ... what's going on in here ...
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Résumé: "resume"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
