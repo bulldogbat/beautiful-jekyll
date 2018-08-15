@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to take time to read ...
 ---
 
 My name is Christian Kremer. I have the following qualities:
@@ -9,7 +9,8 @@ My name is Christian Kremer. I have the following qualities:
 - I'm pragmatic
 - I'm aiming for "small footprint / low overhead"
 
-### Job  
+* sdfsf
+
   
   
 
