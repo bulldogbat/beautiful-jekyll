@@ -1,17 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to take time to read ...
+subtitle: Why you'd want to offer some time to read ...
 ---
 
-My name is Christian Kremer. I can provide you with the following:
+My name is Christian Kremer. I' able to provide you with the following:
 
 - Programming
-  + R  
+  + [R](http://data-digger.net/images/DataScientistWithR.pdf)
     + RStudio
-      + sdfsd
+      + markdown
+      + rmarkdown
   + Python
   + bash shell scripting
+  + vim
+  + tmux
   + Powershell
   + VBScript
   + 
