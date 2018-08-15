@@ -4,13 +4,17 @@ title: About me
 subtitle: Why you'd want to take time to read ...
 ---
 
-My name is Christian Kremer. I have the following qualities:
+My name is Christian Kremer. I can provide you with the following:
 
-- I'm pragmatic
-  + sdfsfd  
-    + werwerwe  
-  + sdfsffsff
-  + tzutzu  
+- Programming
+  + R  
+    + RStudio
+      + sdfsd
+  + Python
+  + bash shell scripting
+  + Powershell
+  + VBScript
+  + 
   
 ----  
 
