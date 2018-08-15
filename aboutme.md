@@ -11,7 +11,8 @@ My name is Christian Kremer. I' able to provide you with the following:
     + RStudio
       + markdown
       + rmarkdown
-  + Python
+  + [Python](http://data-digger.net/images/DataAnalystWithPython.pdf)
+  + [ABAP](http://data-digger.net/images/sap_cert.JPG)
   + bash shell scripting
   + vim
   + tmux
