@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to offer some time to read ...
 ---
 
-My name is **__Christian Kremer__**. I'm able to provide you with the following:
+My name is **_Christian Kremer_**. I'm able to provide you with the following:
 
 ## **Programming**  
 
