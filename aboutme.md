@@ -98,20 +98,20 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
 -----    
     
 ##  **Programming Languages on my Radar**  
-  + Procedural / Object Oriented or sort of ...
-    + C / C++ / C#
-    + Perl
-    + Java
-    + Julia
-    + awk
-    + sed
-    + grep
-    
-  + Functional ...  
-    + Scala
-    + OCaml
-    + Clojure
-    + FSharp
+      + Procedural / Object Oriented or sort of ...
+        + C / C++ / C#
+        + Perl
+        + Java
+        + Julia
+        + awk
+        + sed
+        + grep
+
+      + Functional ...  
+        + Scala
+        + OCaml
+        + Clojure
+        + FSharp
     
 ----  
 
