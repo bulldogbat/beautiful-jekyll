@@ -6,15 +6,15 @@ subtitle: Why you'd want to offer some time to read ...
 
 My name is Christian Kremer. I'm able to provide you with the following:
 
-- Programming  
+- **Programming**  
 
-  + [R](http://data-digger.net/images/DataScientistWithR.pdf)
-    + Enrolled at _*Data Camp*_
+  + [**R**](http://data-digger.net/images/DataScientistWithR.pdf)
+    + Enrolled at _**Data Camp**_
     + RStudio
       + ... I don't like gui's that much ... but this one is excellent ... 
   
-  + [Python](http://data-digger.net/images/DataAnalystWithPython.pdf)
-    + Enrolled at _*Data Camp*_
+  + [**Python**](http://data-digger.net/images/DataAnalystWithPython.pdf)
+    + Enrolled at _**Data Camp**_
     + Editors
       + Spyder
         + ... don't use it very often ... but I like it ... 
@@ -27,7 +27,7 @@ My name is Christian Kremer. I'm able to provide you with the following:
       + Enthought Canopy
         + ... the same thing as with Anaconda
       
-  + [ABAP](http://data-digger.net/images/sap_cert.JPG)
+  + [**ABAP**](http://data-digger.net/images/sap_cert.JPG)
     + What a messy language ... I have no idea how **that** can be so successful ...  
     + SAP ABAP / Hands-On Test Projects with Business Scenarios / Kaushik Roy, Sushil Markandeya
       + ... worked through it ... completely ... very well written ... excellent use-case study ...  
@@ -39,7 +39,7 @@ My name is Christian Kremer. I'm able to provide you with the following:
       + ... several about this topic ...
         + ... Pete Moxon ... vids I like most ... 
   
-  + Haskell
+  + **Haskell**
     + Learning Haskell Data Analysis / Analyze, manipulate, and process datasets of varying sizes efficiently using Haskell / James Church
       + ... working on it ...
     + Courses at Udemy
@@ -52,16 +52,16 @@ My name is Christian Kremer. I'm able to provide you with the following:
     + Data Science at the Command Line / Facing the Future with Time-Tested Tools / Jeroen Janssens
       + ... not many pages in there ... but opens up a whole universe ... 
   
-  + vim
+  + **vim**
     + Pro Vim / ACHIEVE GREATER UNDERSTANDING AND PRACTICAL WORKFLOWS USING THIS ESSENTIAL TERMINAL APPLOCATION / Mark McDonnel
       + ... this really rocks ... written in plain english ... still working on it ... 
         + ... additional chapter about tmux ... man ... excellent ...
   
-  + tmux
+  + **tmux**
     + tmux Taster / Learn How To Use This Terminal Multiplexer In This Easy-To-Digest Taster Volume /Mark McDonnel
       + ... in fact part of **Pro Vim** ...
       
-  + Powershell
+  + **Powershell**
     + ... when I'm in a WIN environment ... this is what I use ...
     + ... **SAPGui** scripting ... automating boring work ... I know how to do/use it ...
       + ... a swiss army knife ... 
@@ -74,9 +74,10 @@ My name is Christian Kremer. I'm able to provide you with the following:
         + ... **_ETL_** on the command line ... and it comes with no additional costs ...
         + ... no waste of money for overloaded and costly IDE's ...
         
-  + VBScript
-    + ... also used it a lot automating work at the **SAPGui**
-  
+  + **VBScript**
+    + ... also used it a lot for automating boring work at the **SAPGui** ...
+    + ... as Frank Zappa said ... **'... jazz is not dead ... it just smell's funny ...'**
+    
   + 
   
 ----  
