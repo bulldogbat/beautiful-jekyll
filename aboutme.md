@@ -169,7 +169,7 @@ My name is **_Christian Kremer_**. I'm able providing you with the following:
   + RaspberryPi
   + BananaPi
   + BeagleBone
-  + ... **do you need more ?** ...
+  + ... **do you want some mora ... right here on the floora ?** (Frank Zappa again) ...
           
 ---          
   
