@@ -28,6 +28,7 @@ My name is Christian Kremer. I'm able to provide you with the following:
         + ... the same thing as with Anaconda
       
   + [ABAP](http://data-digger.net/images/sap_cert.JPG)
+    + What a messy language ... I have no idea how **that** can be so successful ...  
     + SAP ABAP / Hands-On Test Projects with Business Scenarios / Kaushik Roy, Sushil Markandeya
       + ... worked through it ... completely ... very well written ... excellent use-case study ...  
     + Object-Oriented Design with ABAP / A Practical Approach / James E. McDonough
