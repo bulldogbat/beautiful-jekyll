@@ -97,7 +97,7 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
 
 -----    
     
-##  **Programming Languages on my Radar**  
+##  **Programming Languages/Environments on my Radar**  
   + Procedural / Object Oriented or sort of ...
     + C / C++ / C#
     + Perl
@@ -117,7 +117,11 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
 
 ## **_Tools_, _Things_ and _Sources_ I'm constantly exploring and observing**
   + Vagrant
+    + Vagrant Boxes I use ...
+      + DataScienceToolbox
+      + DstDataScienceToolbox
   + Docker
+    + 
   + MySqlWorkbench
   + Tesseract
   + DITA
@@ -127,6 +131,13 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
   + Gimp
   + Inkscape
   + Publishers
+  + Data Camp
+  + Udemy
+  + Pluralsight
+  + YouTubers offering stuff worth spending time on
+    + http:sentdex.com
+      + Beginning Python Games Development / With PyGame / Harrison Kinsley, Will McGugan / Apress
+      + ... but it's not PyGame what ringed my bell ... his tutorials are outstanding ... 
   
 
 - I'm aiming for "small footprint / low overhead"
