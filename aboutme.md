@@ -6,11 +6,16 @@ subtitle: Why you'd want to offer some time to read ...
 
 My name is Christian Kremer. I'm able to provide you with the following:
 
-- Programming
+- Programming  
+---  
+
   + [R](http://data-digger.net/images/DataScientistWithR.pdf)
     + RStudio
       + markdown
-      + rmarkdown
+      + rmarkdown  
+      
+---  
+
   + [Python](http://data-digger.net/images/DataAnalystWithPython.pdf)
     + Editors
       + Spyder
@@ -18,9 +23,15 @@ My name is Christian Kremer. I'm able to provide you with the following:
     + Environments
       + Anaconda
       + Enthought Canopy
+      
+---  
+
   + [ABAP](http://data-digger.net/images/sap_cert.JPG)
     + SAP ABAP / Hands-On Test Projects with Business Scenarios / Kaushik Roy, Sushil Markandeya
-      + ... worked through it ... completely ... very well written ... excellent use-case study ...
+      + ... worked through it ... completely ... very well written ... excellent use-case study ...  
+
+---  
+
   + bash shell scripting
     + Data Science at the Command Line / Facing the Future with Time-Tested Tools / Jeroen Janssens
       + ... not many pages ... but opens up a whole universe ... 
@@ -33,8 +44,6 @@ My name is Christian Kremer. I'm able to provide you with the following:
   + Powershell
   + VBScript
   + 
-  
-  * sdfsfd
   
 ----  
 
