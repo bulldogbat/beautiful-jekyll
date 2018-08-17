@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to offer some time to read ...
 ---
 
-My name is Christian Kremer. I'm able to provide you with the following:
+My name is **__Christian Kremer__**. I'm able to provide you with the following:
 
 - **Programming**  
 
@@ -48,7 +48,7 @@ My name is Christian Kremer. I'm able to provide you with the following:
       + Advanced Data Analysis with Haskell
         + ... **work in progress** ...
   
-  + bash shell scripting
+  + **bash shell scripting**
     + Data Science at the Command Line / Facing the Future with Time-Tested Tools / Jeroen Janssens
       + ... not many pages in there ... but opens up a whole universe ... 
   
@@ -76,9 +76,11 @@ My name is Christian Kremer. I'm able to provide you with the following:
         
   + **VBScript**
     + ... also used it a lot for automating boring work at the **SAPGui** ...
-    + ... as Frank Zappa said ... **'... jazz is not dead ... it just smell's funny ...'**
+    + ... as Frank Zappa once said ... **'... jazz is not dead ... it just smell's funny ...'**
+    + ... it's old ... but again ... if one knows how and where to put it in action ... 
+    + ... fantastic _toolset_ to get rid of **bullshit work** ... 
     
-  + 
+  + **
   
 ----  
 
