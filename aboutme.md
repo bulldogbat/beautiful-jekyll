@@ -77,12 +77,12 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
   + **VBScript**
     + ... also used it a lot for automating boring work at the **SAPGui** ...
     + ... as Frank Zappa once said ... **'... jazz is not dead ... it just smell's funny ...'**
-    + ... it's old ... but again ... if one knows how and where to put it in action ... 
+    + ... yes it's old ... but again ... if one knows how and where to put it in action ... 
     + ... fantastic _toolset_ to get rid of **bullshit work** ... 
     
 ##  **Programming Languages in Focus**  
     + sdff
-  
+    + dfgdfgfg
 ----  
 
 - I'm aiming for "small footprint / low overhead"
