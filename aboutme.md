@@ -29,10 +29,12 @@ My name is Christian Kremer. I'm able to provide you with the following:
       + ... this really rocks ... written in plain english ... still working on it ... 
         + ... additional chapter about tmux ... man ... excellent ...
   + tmux
-    - sdfsf
+    + sdfsf
   + Powershell
   + VBScript
   + 
+  
+  * sdfsfd
   
 ----  
 
