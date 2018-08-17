@@ -6,6 +6,8 @@ subtitle: Why you'd want to offer some time to read ...
 
 My name is **_Christian Kremer_**. I'm able to provide you with the following:
 
+# Transportation of Data from wherever in whatever format to wherever in whatever format ... this is what I try to achieve ...
+
 ## **Programming**  
 
 + [**R**](http://data-digger.net/images/DataScientistWithR.pdf)
@@ -163,6 +165,11 @@ My name is **_Christian Kremer_**. I'm able to provide you with the following:
           + ... than import that flat thing into a relational database ...
           + ... finally map data back to any other xml structure ...
           + ... I must admit ... not easy to get it ... but once more ... it's huge ...
+  + Arduino
+  + RaspberryPi
+  + BananaPi
+  + BeagleBone
+  + ... **do you need more ?** ...
           
 ---          
   
