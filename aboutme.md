@@ -9,10 +9,12 @@ My name is Christian Kremer. I'm able to provide you with the following:
 - Programming  
 
   + [R](http://data-digger.net/images/DataScientistWithR.pdf)
+    + Enrolled at _*Data Camp*_
     + RStudio
       + ... I don't like gui's ... but this one is excellent ... 
   
   + [Python](http://data-digger.net/images/DataAnalystWithPython.pdf)
+    + Enrolled at _*Data Camp*_
     + Editors
       + Spyder
         + ... don't use it very often ... but I like it ... 
@@ -34,7 +36,13 @@ My name is Christian Kremer. I'm able to provide you with the following:
           + ... excellent ...
   
   + Haskell
-    + 
+    + Learning Haskell Data Analysis / Analyze, manipulate, and process datasets of varying sizes efficiently using Haskell / James Church
+      + ... working on it ...
+    + Courses at Udemy
+      + Learning Path: Haskell: Functional Programming and Haskell
+      + Haskell: Data Analysis Made Easy
+      + Advanced Data Analysis with Haskell
+        + ... work in progress ...
   
   + bash shell scripting
     + Data Science at the Command Line / Facing the Future with Time-Tested Tools / Jeroen Janssens
