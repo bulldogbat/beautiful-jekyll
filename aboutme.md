@@ -4,9 +4,9 @@ title: About me
 subtitle: Why you'd want to offer some time to read ...
 ---
 
-My name is **_Christian Kremer_**. I'm able to provide you with the following:
+My name is **_Christian Kremer_**. I'm able providing you with the following:
 
-# Transportation of Data from wherever in whatever format to wherever in whatever format ... this is what I try to achieve ...
+# Transporting Data wherever it comes from in whatever format it's provided to wherever it has to go in whatever format it finally has to be ... that's what I try to achieve ... I'm no _pro or con_ evangelist by any means in regards to environments in use ... if _sources_ have to be wired to specific _targets_ than this is what I try to accomplish ... 
 
 ## **Programming**  
 
