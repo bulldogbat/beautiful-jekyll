@@ -63,8 +63,8 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
       
   + **Powershell**
     + ... when I'm in a WIN environment ... this is what I use ...
-    + ... **SAPGui** scripting ... automating boring work ... I know how to do/use it ...
-      + ... a swiss army knife ... 
+    + ... **SAPGui scripting** ... automating boring stuff ... I know how to do/use it ...
+      + ... a __swiss army knife__ ... 
         + ... if you know how to do it ... anything goes ...
         + ... you can automate whatever you like ... without noise ...
         + ... it's always there ... and if properly updated ... fantastic ...
@@ -79,7 +79,7 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
         + ... no waste of money for overloaded and costly IDE's ...
         
   + **VBScript**
-    + ... also used it a lot for automating boring work at the **SAPGui** ...
+    + ... also used it a lot for automating boring stuff at the **SAPGui** ...
     + ... as Frank Zappa once said ... **'... jazz is not dead ... it just smell's funny ...'**
     + ... yes it's old ... but again ... if one knows how and where to put it in action ... 
     + ... fantastic _toolset_ to get rid of **bullshit work** ... 
@@ -97,21 +97,37 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
     
 -----    
     
-##  **Programming Languages in Focus**  
-  + Procedural or sort of ...
-    + C
+##  **Programming Languages on my Radar**  
+  + Procedural / Object Oriented or sort of ...
+    + C / C++ / C#
     + Perl
+    + Java
+    + Julia
     + awk
     + sed
     + grep
     
-  + Functional    
+  + Functional ...  
     + Scala
     + OCaml
     + Clojure
     + FSharp
     
 ----  
+
+## **_Tools_, _Things_ and _Sources_ I'm constantly exploring and observing**
+      + Vagrant
+      + Docker
+      + MySqlWorkbench
+      + Tesseract
+      + DITA
+      + DocBook
+      + Open XML
+      + Blender
+      + Gimp
+      + Inkscape
+      + Publishers
+  
 
 - I'm aiming for "small footprint / low overhead"
 
