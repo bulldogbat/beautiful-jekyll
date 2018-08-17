@@ -7,14 +7,12 @@ subtitle: Why you'd want to offer some time to read ...
 My name is Christian Kremer. I'm able to provide you with the following:
 
 - Programming  
----  
 
   + [R](http://data-digger.net/images/DataScientistWithR.pdf)
     + RStudio
       + markdown
       + rmarkdown  
       
----  
 
   + [Python](http://data-digger.net/images/DataAnalystWithPython.pdf)
     + Editors
@@ -24,13 +22,11 @@ My name is Christian Kremer. I'm able to provide you with the following:
       + Anaconda
       + Enthought Canopy
       
----  
 
   + [ABAP](http://data-digger.net/images/sap_cert.JPG)
     + SAP ABAP / Hands-On Test Projects with Business Scenarios / Kaushik Roy, Sushil Markandeya
       + ... worked through it ... completely ... very well written ... excellent use-case study ...  
-
----  
+  
 
   + bash shell scripting
     + Data Science at the Command Line / Facing the Future with Time-Tested Tools / Jeroen Janssens
@@ -40,7 +36,9 @@ My name is Christian Kremer. I'm able to provide you with the following:
       + ... this really rocks ... written in plain english ... still working on it ... 
         + ... additional chapter about tmux ... man ... excellent ...
   + tmux
-    + sdfsf
+    + tmux Taster / Learn How To Use This Terminal Multiplexer In This Easy-To-Digest Taster Volume /Mark McDonnel
+      + ... in fact part of **Pro Vim** ...
+      
   + Powershell
   + VBScript
   + 
