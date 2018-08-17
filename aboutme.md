@@ -80,8 +80,8 @@ My name is **__Christian Kremer__**. I'm able to provide you with the following:
     + ... it's old ... but again ... if one knows how and where to put it in action ... 
     + ... fantastic _toolset_ to get rid of **bullshit work** ... 
     
-  + **Programming Languages in Focus**
-    + 
+##  + **Programming Languages in Focus**
+      + sdff
   
 ----  
 
