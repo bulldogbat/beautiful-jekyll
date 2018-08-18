@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: page  
 title: resume
-subtitle: Capabilities
 ---
 
-test
+## Résumé  
+---  
+
