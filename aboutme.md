@@ -109,7 +109,8 @@ My name is **_Christian Kremer_**. I'm able providing you with the following:
     + sed
     + grep
 
-  + Functional ...  
+  + Functional ... 
+    + Haskell
     + Scala
     + OCaml
     + Clojure
